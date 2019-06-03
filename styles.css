@@ -179,7 +179,6 @@ a.social {
 
 a.instagram {
     background-image: url(images/instagram.svg);
-    color: red;
 }
 
 a.linkedin {
@@ -210,7 +209,11 @@ a.social:hover {
     width: 300px;
     display: block;
     margin: 0 auto;
-    border: 1px solid red;
+}
+
+.nav .name:hover {
+    color: white;
+    background: #ff7504;
 }
 
 

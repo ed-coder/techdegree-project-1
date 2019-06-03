@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generate more at customizr.net -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="linkedin"
+   class="custom-icon"
+   version="1.1"
+   viewBox="0 0 100 100"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="instagram.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1282"
+     inkscape:window-height="657"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="4.72"
+     inkscape:cx="50"
+     inkscape:cy="41.525424"
+     inkscape:window-x="88"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="linkedin" />
+  <circle
+     class="outer-shape"
+     cx="50"
+     cy="50"
+     r="48"
+     style="opacity:1;fill:#ff6600"
+     id="circle3" />
+  <path
+     class="inner-shape"
+     style="opacity:1;fill:#f7f7f7"
+     transform="matrix(0.5,0,0,0.5,25,25)"
+     d="M 82.539,1 17.461,1 C 8.408,1 1,8.408 1,17.461 L 1,82.539 C 1,91.592 8.408,99 17.461,99 l 65.078,0 C 91.592,99 99,91.592 99,82.539 L 99,17.461 C 99,8.408 91.592,1 82.539,1 Z M 31.625,19.375 c -54.416667,87.08333 -27.2083333,43.541667 0,0 z"
+     id="path5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssscc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 51.244704,36.293939 c 4.455562,0 4.984,0.01669 6.744531,0.09734 4.522313,0.205812 6.634672,2.351546 6.840485,6.840484 0.08066,1.759141 0.09595,2.287578 0.09595,6.743141 0,4.456953 -0.01669,4.984 -0.09595,6.74314 -0.207204,4.484766 -2.314,6.634672 -6.840485,6.840485 -1.760531,0.08066 -2.286187,0.09734 -6.744531,0.09734 -4.455563,0 -4.984,-0.01669 -6.743141,-0.09734 -4.533437,-0.207204 -6.634672,-2.362672 -6.840484,-6.841875 -0.08066,-1.759141 -0.09734,-2.286188 -0.09734,-6.743141 0,-4.455563 0.01808,-4.982609 0.09734,-6.743141 0.207203,-4.487547 2.314,-6.634672 6.840484,-6.840484 1.760532,-0.07927 2.287578,-0.09595 6.743141,-0.09595 z m 0,-3.007922 c -4.532047,0 -5.099422,0.01947 -6.879422,0.100125 -6.060344,0.278125 -9.428437,3.640656 -9.706562,9.706562 -0.08205,1.781391 -0.101516,2.348766 -0.101516,6.880813 0,4.532047 0.01947,5.100812 0.100125,6.880812 0.278125,6.060344 3.640656,9.428438 9.706562,9.706563 1.781391,0.08066 2.348766,0.100125 6.880813,0.100125 4.532047,0 5.100812,-0.01947 6.880812,-0.100125 6.054782,-0.278125 9.431219,-3.640656 9.705172,-9.706563 0.08205,-1.78 0.101516,-2.348765 0.101516,-6.880812 0,-4.532047 -0.01947,-5.099422 -0.100125,-6.879422 -0.272563,-6.054781 -3.639266,-9.428437 -9.705172,-9.706562 -1.781391,-0.08205 -2.350156,-0.101516 -6.882203,-0.101516 z m 0,8.118469 c -4.732297,0 -8.569031,3.836734 -8.569031,8.569031 0,4.732297 3.836734,8.570422 8.569031,8.570422 4.732297,0 8.569031,-3.836735 8.569031,-8.570422 0,-4.732297 -3.836734,-8.569031 -8.569031,-8.569031 z m 0,14.131531 c -3.071891,0 -5.5625,-2.489219 -5.5625,-5.5625 0,-3.071891 2.490609,-5.5625 5.5625,-5.5625 3.071891,0 5.5625,2.490609 5.5625,5.5625 0,3.073281 -2.490609,5.5625 -5.5625,5.5625 z m 8.908344,-16.471953 c -1.106938,0 -2.003891,0.896953 -2.003891,2.0025 0,1.105547 0.896953,2.0025 2.003891,2.0025 1.105547,0 2.001109,-0.896953 2.001109,-2.0025 0,-1.105547 -0.895562,-2.0025 -2.001109,-2.0025 z"
+     id="path4"
+     inkscape:transform-center-x="-16.498941"
+     inkscape:transform-center-y="16.498941"
+     style="fill:#ff6600;fill-opacity:1" />
+</svg>

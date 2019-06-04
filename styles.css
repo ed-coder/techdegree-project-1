@@ -30,7 +30,7 @@ a:hover {
 
 .main-nav {
     width: 100%;
-    background: black;
+    background: linear-gradient(to bottom, transparent, rgba(255, 51, 0. .2) 120%);
     min-height: 30px;
     padding: 10px;
     position: fixed;
@@ -103,13 +103,14 @@ header .profile-image:hover {
     color: black;
     padding: 10px;
     border-radius: 5px;
+    border-radius: 20px 6px 20px 6px;
     display: table;
     margin: 10px auto;
 }
 
 .location {
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    background-color: rgba(230, 62, 11, .5);
+    color: white;
 }
 
 .card {
@@ -119,8 +120,10 @@ header .profile-image:hover {
     text-align: left;
     background: #fff;
     border-bottom: 4px solid #ccc;
-    border-radius: 6px;
+    border-top: 6px solid orangered;
+    border-radius: 40px 6px 20px 6px;
     transition: all .5s;
+    box-shadow: 2px 2px 20px 5px rgba(102, 102, 102, .5) inset;
 }
 
 .card:hover {
@@ -202,7 +205,8 @@ a.social:hover {
 /* Personalization */
 
 .flex {
-    background: black;
+    background: rgba(255, 255, 255, .1);
+    border-radius: 0 0 10px 70px;
 }
 
 .img-size {
@@ -219,6 +223,15 @@ a.social:hover {
 
 .name-color {
     color: white;
+}
+
+.current {
+    color: white;
+}
+
+.sub-titles {
+    color: #6323FD;
+    border-bottom: 2px dotted orangered;
 }
 
 

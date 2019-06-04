@@ -41,6 +41,7 @@ a:hover {
 .nav {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     font-weight: 700;
     list-style-type: none;
     margin: 0 auto;
@@ -98,7 +99,7 @@ header .profile-image:hover {
 }
 
 .tag {
-    background-color: #efefef;
+    background-color: rgba(255, 255, 255, .3);
     color: black;
     padding: 10px;
     border-radius: 5px;
@@ -134,7 +135,7 @@ ul.skills {
 .skills li {
     border-radius: 6px;
     display: inline-block;
-    background: #ff7504;
+    background: #ff3f04;
     color: white;
     padding: 5px 10px;
     margin: 2px;
@@ -214,6 +215,10 @@ a.social:hover {
 .nav .name:hover {
     color: white;
     background: #ff7504;
+}
+
+.name-color {
+    color: white;
 }
 
 

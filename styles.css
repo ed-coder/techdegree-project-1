@@ -138,7 +138,7 @@ header .profile-image:hover {
     border-radius: 40px 6px 20px 6px;
     transition: all .5s;
     box-shadow: 2px 2px 20px 5px rgba(102, 102, 102, .5) inset;
-    overflow: hidde;
+    overflow: hidden;
 }
 
 .card:hover {
